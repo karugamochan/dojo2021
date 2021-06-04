@@ -1,9 +1,0 @@
-windows add1
-linux add1
-windows add2
-<<<<<<< HEAD
-windows add3
-=======
-linux add2
-
->>>>>>> bdcffc163963cd013f4fc91638fddcee04e305ea
